@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Goldmine",
+  "base_artist": "Glim Spanky",
+  "createdAt": "2025-12-18T16:23:17.561604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Got the Goldmine (I Got the Shaft)",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/01_She_Got_the_Goldmine_(I_Got_the_Shaft)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Footprints On The Moon - Live From The Goldmine",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/02_Footprints_On_The_Moon_-_Live_From_The_Goldmine_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goldmine (Bonus Performance) - Live From The Goldmine",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/03_Goldmine_(Bonus_Performance)_-_Live_From_The_Goldmine_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She Got The Goldmine (I Got The Shaft)",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/04_She_Got_The_Goldmine_(I_Got_The_Shaft)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rose Needs A Jack (Live From The Goldmine)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/05_Rose_Needs_A_Jack_(Live_From_The_Goldmine)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thank God (Live From The Goldmine)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/06_Thank_God_(Live_From_The_Goldmine)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jesus & My Mama (Live From The Goldmine)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/07_Jesus_&_My_Mama_(Live_From_The_Goldmine)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Good Ones (Live From The Goldmine)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/08_The_Good_Ones_(Live_From_The_Goldmine)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Hope (Live From The Goldmine)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/09_I_Hope_(Live_From_The_Goldmine)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Got the Goldmine (I Got the Shaft)",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/10_She_Got_the_Goldmine_(I_Got_the_Shaft)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Got The Goldmine (I Got The Shaft) (Buddha Remastered - 2000)",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/11_She_Got_The_Goldmine_(I_Got_The_Shaft)_(Buddha_Remastered_-_2000)_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Got the Goldmine (I Got the Shaft)",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/12_She_Got_the_Goldmine_(I_Got_the_Shaft)_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She Got The Goldmine (I Got The Shaft) - Buddha Remastered - 2000",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/13_She_Got_The_Goldmine_(I_Got_The_Shaft)_-_Buddha_Remastered_-_2000_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Goldmine",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/14_The_Goldmine_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "She Got the Goldmine (I Got the Shaft)",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/15_She_Got_the_Goldmine_(I_Got_the_Shaft)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "She Got The Goldmine (I Got The Sharft)",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/16_She_Got_The_Goldmine_(I_Got_The_Sharft)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Goldmine",
+      "artist": "GLIM SPANKY",
+      "has_synced": false,
+      "path": "select/pl_01_The_Goldmine_GLIM_SPANKY.txt"
+    }
+  ]
+}
